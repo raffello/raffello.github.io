@@ -1,6 +1,4 @@
 # raffello.github.io
-*心得体会*
-
 # **<font color="red">*<i>心得体会</i> *</font>** 
 ***
 突然就觉得发现了一个新大陆，感觉这种方式写文字很沉静。
