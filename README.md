@@ -1,6 +1,6 @@
 # [raffello.top](http://www.raffello.top)
 
-![测试一下看这样去写，是不是对文本最奇怪的应用。][20200404]
+![][20200404](测试一下看这样去写，是不是对文本最奇怪的应用。)
 
 #### This is My [github link](https://github.com/raffello "raffello（邱峰）").
 
