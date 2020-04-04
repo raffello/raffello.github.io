@@ -1,6 +1,6 @@
 # [raffello.top](http://www.raffello.top)
 
-![测试一下看这样去写，是不是对文本最奇怪的应用。<br>是的，<p></p>果然是这种用法，非常的奇怪。<br>][20200404]
+![测试一下看这样去写，是不是对文本最奇怪的应用。是的,果然是这种用法，非常的奇怪。][20200404]
 
 #### This is My [github link](https://github.com/raffello "raffello（邱峰）").
 
